@@ -1,6 +1,6 @@
 programa{
 funcao inicio(){
- real soma, numero1, numero2, multi
+ real soma, numero1, numero2, multi, divi
  
  escreva("digite um numero")
  leia(numero1)
@@ -19,5 +19,4 @@ divi = numero1 / numero2
 
 escreva("a divisão dos numeros é",divi)
 
- }
 }
