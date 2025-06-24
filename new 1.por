@@ -15,5 +15,9 @@ multi = numero1 * numero2
 
 escreva("multiplicação : ",multi)
 
+divi = numero1 / numero2
+
+escreva("a divisão dos numeros é",divi)
+
  }
 }
