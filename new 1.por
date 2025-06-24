@@ -1,6 +1,6 @@
 programa{
 funcao inicio(){
- real soma, numero1, numero2
+ real soma, numero1, numero2, multi
  
  escreva("digite um numero")
  leia(numero1)
@@ -10,5 +10,10 @@ funcao inicio(){
  soma = numero1 + numero2
  
  escreva (" soma é ",soma)
+
+multi = numero1 * numero2
+
+escreva("multiplicação : ",multi)
+
  }
 }
